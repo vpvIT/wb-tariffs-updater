@@ -7,10 +7,10 @@
   git clone https://github.com/vpvIT/wb-tariffs-updater
 ```
 
-Go to the project directory
+Перейдите в папку с проектом
 
 ```bash
-  cd my-project
+  cd wb-tariffs-updater
 ```
 
 Настройте .env файл, измените WB_API_KEY на ваш ключ от API Wildberries. В GOOGLE_DOCS_IDS напишите через запятую список id документов, куда вы хотите сохранять тарифы.
